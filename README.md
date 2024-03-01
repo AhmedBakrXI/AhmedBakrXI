@@ -12,6 +12,6 @@
 - 🎨 Familiar with Embedded Systems & Software Development.
 - 🔭 Looking for a new inspiring project to work on.
 
-<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> Skills</h2>
+<h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Skills</h2>
 <p><img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400" align="right"></p>
 
