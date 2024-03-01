@@ -36,14 +36,14 @@
 
 <h3>- IDEs</h3>
 <p>
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/android-studio.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/intellij.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/clion.png" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/pycharm.svg" width="60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" width="60">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/android-studio.svg" width="50">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/intellij.svg" width="50">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/clion.png" width="50">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/pycharm.svg" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" width="50">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/eclipse.svg" width="60">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Keil_logo.svg/800px-Keil_logo.svg.png" width="60">
-<img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" width="60">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Keil_logo.svg/800px-Keil_logo.svg.png" width="50">
+<img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" width="50">
 
 </p>
 
