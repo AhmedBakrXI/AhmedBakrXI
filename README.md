@@ -55,11 +55,12 @@
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/github.svg" width="60">  
 </p>
 
-<p><img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400" align="right"></p>
+
 
 
 
 <h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30">&nbsp; Stats</h2>
+<p><img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400" align="right"></p>
 <p align="center">
   <a href="https://github.com/AhmedBakrXI">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedBakrXI&show_icons=true&theme=radical" />
