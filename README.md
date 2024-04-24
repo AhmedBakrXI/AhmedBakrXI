@@ -19,6 +19,7 @@
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c.svg" width="60">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%2B%2B.svg" width="60">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/java.svg" width="60">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg" width="60">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" width="60">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/dart.svg" width="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" width="60">
@@ -29,6 +30,7 @@
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/android.svg" width="60">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/flutter.svg" width="60">
 <img src="https://repository-images.githubusercontent.com/400161932/257a8be2-bbf2-4218-a55b-219d819578b2" width="60">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/spring.svg" width="60">
 </p>
 
 <h3>- Databases</h3>
