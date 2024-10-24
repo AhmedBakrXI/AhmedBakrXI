@@ -8,7 +8,7 @@
 
 
 - 🎓 Computer and Systems Engineering student @Ain_Shams_University.
-- 🌱 I’m currently learning Operating Systems & Linux.
+- 🌱 I’m currently learning ZigBee Networking.
 - 🎨 Familiar with Embedded Systems & Software Development.
 - 🔭 Looking for a new inspiring project to work on.
 
