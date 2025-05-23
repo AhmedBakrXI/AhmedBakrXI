@@ -13,56 +13,34 @@
 - 🔭 Looking for a new inspiring project to work on.
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Skills</h2>
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" width="400">
-<h3>- Programming Languages</h3>
-<p>
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%2B%2B.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/java.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/dart.svg" width="60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" width="60">
-</p>
-
-<h3>- Frameworks</h3>
-<p>
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/android.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/flutter.svg" width="60">
-<img src="https://repository-images.githubusercontent.com/400161932/257a8be2-bbf2-4218-a55b-219d819578b2" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/frameworks/spring.svg" width="60">
-</p>
-
-<h3>- Databases</h3>
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" width="60">
-
-<h3>- IDEs</h3>
-<p>
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/android-studio.svg" width="50">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/intellij.svg" width="50">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/clion.png" width="50">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/pycharm.svg" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" width="50">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/ides/eclipse.svg" width="60">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Keil_logo.svg/800px-Keil_logo.svg.png" width="50">
-<img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" width="50">
-
-</p>
-
-<h3>- Others</h3>
-<p>
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/git.svg" width="60">
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/social%20icons/github.svg" width="60">  
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matplotlib&logoColor=white&style=for-the-badge" alt="MATLAB">
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Android">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge" alt="Spring">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas">
+  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white&style=for-the-badge" alt="Qt">
+  <img src="https://img.shields.io/badge/JavaFX-007396?logo=openjdk&logoColor=white&style=for-the-badge" alt="JavaFX">
+  <img src="https://img.shields.io/badge/Zigbee-EB0443?style=for-the-badge&logo=zigbee&logoColor=white" alt="Zigbee">
+</div>
 
 
 
 
 
 <h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30">&nbsp; Stats</h2>
-<p><img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400" align="right"></p>
 <p align="center">
   <a href="https://github.com/AhmedBakrXI">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedBakrXI&show_icons=true&theme=radical" />
