@@ -73,6 +73,20 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedBakrXI&theme=react-dark&area=true&hide_border=true&custom_title=Ahmed%20Bakr's%20GitHub%20Activity&cache=v2&random=12345)
 
+<p align="center">
+  <a href="https://github.com/AhmedBakrXI">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedBakrXI&show_icons=true&theme=algolia" />
+  </a>
+  <a href="https://github.com/AhmedBakrXI">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBakrXI&layout=compact&theme=algolia" />
+  </a>
+</p>
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmedBakrXI&theme=algolia&card_width=465" alt="GitHub Streak" /></a>
+</p>
+
+
 [//]: # (<p align="center">)
 
 [//]: # (  <a href="https://github.com/AhmedBakrXI">)
@@ -106,6 +120,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin" />
   </a>
 </p>
+
 
 ---
 
