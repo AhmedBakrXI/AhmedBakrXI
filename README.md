@@ -70,9 +70,11 @@
 ---
 
 <h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30">&nbsp; Stats</h2>
-<h2>📊 Activity Graph</h2>
+
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedBakrXI&theme=react-dark&area=true&hide_border=true&custom_title=Ahmed%20Bakr's%20GitHub%20Activity) 
+
+
 
 [//]: # (<p align="center">)
 
