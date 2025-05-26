@@ -1,12 +1,18 @@
 <h1 align="center">Hello there <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50">, This is Ahmed Bakr <img src="https://github.com/AhmedBakrXI/AhmedBakrXI/assets/114930002/db7b2fe1-5ff5-491c-9fec-3e13af7b3bfb" width="30"></h1>
 
 <p align="center">
+  <a href="https://github.com/AhmedBakrXI" target="_blank">
+    <img src="https://img.shields.io/badge/Graduating_SOON-8A2BE2?style=for-the-badge&logo=starship&labelColor=36bcf7&link=https://&logoColor=white&color=0d1117&logoWidth=30&animation=glitch" alt="Graduating Soon Badge"/>
+  </a>
+</p>
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Computer+Engineering+Student+%40ASU%2C;Driven+by+The+Flame+of+Creativity%2C;Having+Coding+Inspiration+%26+Science%2C;Passionate+%26+Hard+Working+Student." alt="Typing SVG" />
   </a>
   <img src="https://private-user-images.githubusercontent.com/114930002/316238341-05b07571-a558-43c5-ac40-fb0be0415860.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM5OTQ4MzEsIm5iZiI6MTcxMzk5NDUzMSwicGF0aCI6Ii8xMTQ5MzAwMDIvMzE2MjM4MzQxLTA1YjA3NTcxLWE1NTgtNDNjNS1hYzQwLWZiMGJlMDQxNTg2MC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQyNFQyMTM1MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNWVmYTRjNDQzZDMzZjU2ZWI3ZjU0YTRkYmI3NGJhODk4MTVlMzhhYmRkY2U4MGQ5N2VlODI0NmQwNjVmZmRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.rMnNZ_lTYL8gJG5Hp485b8ZNUpcUAiSjWVXH6ew8cNE" width="150">
 </p>
 <br>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
@@ -64,19 +70,33 @@
 ---
 
 <h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="30">&nbsp; Stats</h2>
-<p align="center">
-  <a href="https://github.com/AhmedBakrXI">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedBakrXI&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/AhmedBakrXI">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBakrXI&layout=compact&theme=radical" />
-  </a>
-</p>
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmedBakrXI&theme=radical&card_width=465" alt="GitHub Streak" /></a>
-</p> 
+<h2>📊 Activity Graph</h2>
 
----
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedBakrXI&theme=react-dark&area=true&hide_border=true&custom_title=Ahmed%20Bakr's%20GitHub%20Activity) 
+
+[//]: # (<p align="center">)
+
+[//]: # (  <a href="https://github.com/AhmedBakrXI">)
+
+[//]: # (    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedBakrXI&show_icons=true&theme=dracula" />)
+
+[//]: # (  </a>)
+
+[//]: # (  <a href="https://github.com/AhmedBakrXI">)
+
+[//]: # (    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBakrXI&layout=compact&theme=dracula" />)
+
+[//]: # (  </a>)
+
+[//]: # (</p>)
+
+[//]: # (<p align="center">)
+
+[//]: # (<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AhmedBakrXI&theme=dracula&card_width=465" alt="GitHub Streak" /></a>)
+
+[//]: # (</p> )
+
+
 
 <h2>📫 Connect with Me</h2>
 <p>
